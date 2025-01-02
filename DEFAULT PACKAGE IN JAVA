@@ -1,0 +1,17 @@
+//INPUT
+package akhilesh;
+class A{
+  void show(){
+        System.out.println("Learn Coding");
+    }
+}
+class B{
+    public static void main(String[] args){
+        A r=new A();
+        r.show();
+    }
+}
+//OUTPUT
+Learn Coding
+A new class B will be created in akhilesh folder
+Since class B is able to access class A it is an example of Default Folder
